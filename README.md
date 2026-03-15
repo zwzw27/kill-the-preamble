@@ -55,7 +55,9 @@ Download `kill-the-preamble.skill` from the [releases](../../releases) page and 
 
 ## Usage
 
-Just paste a press release into Claude Code. The skill triggers automatically when it detects PR-style content — datelines, boilerplate, "FOR IMMEDIATE RELEASE", executive quotes, etc.
+Just paste a press release into Claude. The skill triggers automatically when it detects PR-style content — datelines, boilerplate, "FOR IMMEDIATE RELEASE", executive quotes, etc.
+
+Works in both Claude Code and Claude Chat (claude.ai) once installed.
 
 You can also trigger it explicitly:
 
@@ -111,6 +113,6 @@ MIT — Use it, modify it, share it.
 
 ## Credits
 
-Created by [Zac](https://github.com/zwzw27) with Claude.
+Created with Claude. Built by a journalist who's read too many press releases.
 
 Inspired by years of reading press releases that bury their own news.
